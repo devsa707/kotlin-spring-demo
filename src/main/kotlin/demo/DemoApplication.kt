@@ -9,9 +9,7 @@ import org.springframework.web.bind.annotation.RequestBody
 import org.springframework.web.bind.annotation.RequestMapping
 import org.springframework.web.bind.annotation.RestController
 import person.PersonDTO
-import person.PersonAPI
 import person.PersonDocumentAPI
-import person.document.DocumentAPI
 
 @SpringBootApplication
 class DemoApplication

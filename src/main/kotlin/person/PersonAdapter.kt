@@ -1,6 +1,5 @@
 package person
 
-import person.document.DocumentEntity
 import java.time.LocalDate
 import java.time.Period
 
